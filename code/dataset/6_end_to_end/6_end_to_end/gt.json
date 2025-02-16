@@ -1,0 +1,79 @@
+{
+	"test_front_1.png": [
+		"SCHALK",
+		"ALEXA",
+		"07.02.1986",
+		"DEUTSCH",
+		"SOSBERG",
+		"22.07.2029",
+		"518187",
+		"LX4LF2F7V"
+	],
+	"test_front_2.png": [
+		"HIRSCHFELD",
+		"OLAF",
+		"19.09.1949",
+		"DEUTSCH",
+		"NASTÄTTEN",
+		"30.01.2025",
+		"619420",
+		"LLLC49WYN"
+	],
+	"test_front_3.png": [
+		"HACKBARTH",
+		"GEB.",
+		"ROEDER",
+		"HELGE",
+		"17.12.1930",
+		"DEUTSCH",
+		"WÖLLSTEIN",
+		"02.03.2029",
+		"548339",
+		"N1MZM6W9N"
+	],
+	"test_back_1.png": [
+		"BRAUNGRÜN",
+		"218",
+		"CM",
+		"14.06.2010",
+		"BÜRGERMEISTERAMT",
+		"GOMARINGEN",
+		"88085",
+		"LANGENARGEN",
+		"RATHAUSPLATZ",
+		"47",
+		"IDD<<R3N1HCM2G7<<<<<<<<<<<<<<<",
+		"9210217<2006132D<<<<<<<<<<<<<9",
+		"LEMBKE<<ALICE<<<<<<<<<<<<<<<<<"
+	],
+	"test_back_2.png": [
+		"BRAUNGRÜN",
+		"225",
+		"CM",
+		"16.08.2010",
+		"GEMEINDE",
+		"BREITSCHEID",
+		"56357",
+		"BERG",
+		"MITTELWEG",
+		"65",
+		"IDD<<R91C6K6X47<<<<<<<<<<<<<<<",
+		"0310228<1608159D<<<<<<<<<<<<<7",
+		"GRABOWSKI<<HUBERTA<<<<<<<<<<<<"
+	],
+	"test_back_3.png": [
+		"GRÜNGRAU",
+		"194",
+		"CM",
+		"29.08.2020",
+		"STADT",
+		"DELBRÜCK",
+		"56368",
+		"BERGHAUSEN",
+		"LUDWIGSTRASSE",
+		"91",
+		"IDD<<XXP5G6W743<<<<<<<<<<<<<<<",
+		"0307156<2608282D<<<<<<<<<<<<<8",
+		"SCHLICHTING<<EDITH<<<<<<<<<<<<"
+	]
+}
